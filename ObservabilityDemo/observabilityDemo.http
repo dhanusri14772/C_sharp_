@@ -1,0 +1,6 @@
+@observabilityDemo_HostAddress = http://localhost:5218
+
+GET {{observabilityDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
